@@ -2,6 +2,8 @@
 name: clawaifu-selfie
 description: Edit Marineyang's reference image with Grok Imagine (xAI Aurora) and send selfies to messaging channels via OpenClaw
 allowed-tools: Bash(npm:*) Bash(npx:*) Bash(openclaw:*) Bash(curl:*) Read Write WebFetch
+homepage: https://github.com/swancho/clawaifu
+metadata: {"requires":{"env":["FAL_KEY"]},"primaryEnv":"FAL_KEY"}
 ---
 
 # Clawaifu Selfie
