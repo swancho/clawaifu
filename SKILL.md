@@ -6,6 +6,8 @@ allowed-tools: Bash(npm:*) Bash(npx:*) Bash(openclaw:*) Bash(curl:*) Read Write 
 
 # Clawaifu Selfie
 
+**GitHub:** https://github.com/swancho/clawaifu | **npm:** https://www.npmjs.com/package/clawaifu
+
 Edit a fixed reference image using xAI's Grok Imagine model and distribute it across messaging platforms (WhatsApp, Telegram, Discord, Slack, etc.) via OpenClaw.
 
 ## Reference Image
