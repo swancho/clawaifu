@@ -1,6 +1,6 @@
 ---
 name: clawaifu-selfie
-description: OpenClaw Waifu
+description: Your AI waifu companion that sends anime-style selfies
 allowed-tools: Bash(npm:*) Bash(npx:*) Bash(openclaw:*) Bash(curl:*) Read Write WebFetch
 homepage: https://github.com/swancho/clawaifu
 metadata: {"requires":{"env":["FAL_KEY"]},"primaryEnv":"FAL_KEY"}

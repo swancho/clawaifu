@@ -1,7 +1,7 @@
 {
   "name": "clawaifu",
-  "version": "1.0.3",
-  "description": "OpenClaw Waifu",
+  "version": "1.0.4",
+  "description": "Your AI waifu companion that sends anime-style selfies",
   "bin": {
     "clawaifu": "./bin/cli.js"
   },
