@@ -1,6 +1,6 @@
 {
   "name": "clawaifu",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Add waifu selfie superpowers to your OpenClaw agent using xAI Grok Imagine",
   "bin": {
     "clawaifu": "./bin/cli.js"
@@ -27,7 +27,7 @@
     "waifu",
     "marineyang"
   ],
-  "author": "",
+  "author": "swancho",
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -37,9 +37,10 @@
   "engines": {
     "node": ">=18.0.0"
   },
-  "dependencies": {},
+  "dependencies": {
+    "@fal-ai/client": "^1.2.0"
+  },
   "devDependencies": {
-    "@fal-ai/client": "^1.2.0",
     "@types/node": "^22.0.0",
     "ts-node": "^10.9.2",
     "typescript": "^5.7.0"
