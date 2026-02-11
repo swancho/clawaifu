@@ -33,8 +33,8 @@ https://cdn.jsdelivr.net/gh/swancho/clawaifu@main/assets/marineyang.png
 ### Required Environment Variables
 
 ```bash
-FAL_KEY=your_fal_api_key          # Get from https://fal.ai/dashboard/keys
-OPENCLAW_GATEWAY_TOKEN=your_token  # From: openclaw doctor --generate-gateway-token
+FAL_KEY=your_fal_api_key          # Required - Get from https://fal.ai/dashboard/keys
+OPENCLAW_GATEWAY_TOKEN=your_token  # Optional - Auto-configured when using openclaw CLI
 ```
 
 ### Workflow
